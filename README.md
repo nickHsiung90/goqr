@@ -1,8 +1,8 @@
 goqr
 ====
-
-A fast qrcode generate write with google golang.
 基于Go语言的快速二维码批量生成器
+A fast qrcode generate write with google golang.
+
 
 //English is bad , more english readme will come soon.
 
